@@ -196,10 +196,6 @@ void updateBack(node* front, node* back, unsigned long long int tag)//SUPPOSED T
     
     
 }
-
-
-
-
 int lo(unsigned int x )
 {
     int ans = 0 ;
